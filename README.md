@@ -1,80 +1,49 @@
-<h1 align="center">Hi 👋, I'm Alina Mubarik</h1>
+<h1 align="center">
+  Hi 👋, I'm Alina Mubarik
+</h1>
 
 <h3 align="center">
-Computer Science Student | Full Stack Developer | React Native Developer
+🚀 Full Stack Developer | 📱 React Native Developer | 🎓 Computer Science Student
 </h3>
 
 <p align="center">
-Passionate about building modern Web & Mobile Applications 🚀
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+Native+Developer;Building+Web+Applications;Building+Mobile+Applications;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=alinamubarik&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=alinamubarik&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-🎓 Computer Science Student
-
-💻 Full Stack Developer
-
-📱 React Native Mobile App Developer
-
-🌐 Building Modern Web Applications
-
-🗄️ Working with MySQL & MongoDB
-
-🚀 Currently developing real-world client projects
-
-📚 Always learning new technologies
-
----
-
-# 🛠️ Tech Stack
-
-## Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+```javascript
+const alina = {
+    education: "Computer Science Student",
+    role: "Full Stack Developer",
+    mobile: "React Native Developer",
+    backend: ["Node.js", "Express.js"],
+    database: ["MySQL", "MongoDB"],
+    currentlyLearning: [
+        "React Native",
+        "System Design",
+        "Cloud Computing",
+        "Backend Architecture"
+    ],
+    goal: "Become a Professional Software Engineer"
+}
+```
 
 ---
 
-## Frontend
+# ⚡ Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+<p align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode" />
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-
----
-
-## Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
-![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
----
-
-## Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
----
-
-## Mobile Development
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+</p>
 
 ---
 
@@ -82,103 +51,149 @@ Passionate about building modern Web & Mobile Applications 🚀
 
 ## 🏥 PhysioCare App
 
-A complete physiotherapy appointment booking application.
+A complete physiotherapy appointment booking platform connecting patients and doctors.
 
 ### Features
-- Patient Registration
-- Doctor Dashboard
-- Appointment Booking
-- Authentication System
-- Medical Record Management
+
+✅ Patient Registration
+
+✅ Doctor Dashboard
+
+✅ Appointment Booking
+
+✅ Medical Records
+
+✅ Authentication System
 
 ### Tech Stack
-- React Native
-- Node.js
-- Express.js
-- MySQL
 
-🔗 Repository:
+`React Native` `Node.js` `Express.js` `MySQL`
+
+🔗 Repository
+
 https://github.com/alinamubarik/PhysioCare-App
+
+---
+
+## ⚙️ PhysioCare Backend
+
+Backend APIs powering the PhysioCare ecosystem.
+
+### Features
+
+✅ REST APIs
+
+✅ Authentication
+
+✅ Appointment Management
+
+✅ Database Integration
+
+✅ Secure Backend Architecture
+
+### Tech Stack
+
+`Node.js` `Express.js` `MySQL`
 
 ---
 
 ## 🍳 FlavorForge
 
-Recipe Finder Web Application.
+Modern Recipe Finder Website.
 
 ### Features
-- Recipe Search
-- Food Categories
-- Responsive Design
-- Modern UI
+
+✅ Search Recipes
+
+✅ Browse Categories
+
+✅ Responsive Design
+
+✅ Modern User Interface
 
 ### Tech Stack
-- HTML
-- CSS
-- JavaScript
 
-🔗 Repository:
+`HTML` `CSS` `JavaScript`
+
+🔗 Repository
+
 https://github.com/alinamubarik/FlavorForge
 
 ---
 
 ## 📋 Task Flow
 
-Task Management Application.
+Productivity & Task Management Application.
 
 ### Features
-- Task Creation
-- Progress Tracking
-- Workflow Management
-- User Friendly Dashboard
+
+✅ Create Tasks
+
+✅ Track Progress
+
+✅ Manage Workflow
+
+✅ Deadline Management
 
 ### Tech Stack
-- TypeScript
-- React
 
-🔗 Repository:
+`React` `TypeScript`
+
+🔗 Repository
+
 https://github.com/alinamubarik/Alina.A3.Task-Flow
 
 ---
 
-## ⚙️ PhysioCare Backend
-
-Backend APIs for PhysioCare App.
-
-### Features
-- Authentication
-- Appointment APIs
-- Database Management
-- RESTful Services
-
-### Tech Stack
-- Node.js
-- Express.js
-- MySQL
-
----
-
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinamubarik&show_icons=true&theme=tokyonight" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=alinamubarik&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alinamubarik&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alinamubarik&theme=tokyonight" />
-</p>
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinamubarik&layout=compact&theme=tokyonight" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinamubarik&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievement Wall
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=alinamubarik&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=alinamubarik&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
 </p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alinamubarik&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎯 Current Goals
+
+🌟 Build Production Ready Mobile Apps
+
+🌟 Master Full Stack Development
+
+🌟 Learn Cloud Deployment
+
+🌟 Contribute to Open Source
+
+🌟 Work on Real-World Client Projects
 
 ---
 
@@ -186,33 +201,32 @@ Backend APIs for PhysioCare App.
 
 - Advanced React Native
 - MongoDB
-- Cloud Computing
+- Cloud Technologies
 - System Design
-- Backend Architecture
+- Scalable Backend Development
 
 ---
 
-# 🎯 2026 Goals
+# 🤝 Connect With Me
 
-✅ Build Production Ready Apps
+<p align="center">
 
-✅ Learn Cloud Deployment
+<a href="https://github.com/alinamubarik">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-✅ Complete More Client Projects
-
-✅ Improve Backend Skills
-
-✅ Contribute to Open Source
+</p>
 
 ---
 
-# 📫 Connect With Me
+<h2 align="center">
 
-GitHub:
-https://github.com/alinamubarik
+⭐ Thanks for Visiting My Profile ⭐
 
----
+</h2>
 
-<h3 align="center">
-⭐ Thanks for visiting my profile!
-</h3>
+<p align="center">
+
+💻 Building Today for a Better Tomorrow 🚀
+
+</p>
